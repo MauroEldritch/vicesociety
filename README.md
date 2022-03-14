@@ -8,7 +8,7 @@
 
 Vice Society es un grupo de ransomware que emergió a mediados de 2021 y ya cuenta con víctimas en más de una docena de países, incluyendo: Estados Unidos, Reino Unido, Arabia Saudita, Italia, Francia, Alemania, España, y hasta Argentina, donde atacaron nada más ni nada menos que al Senado. Por este último caso es que decidí entrevistarlos brevemente.
 
-# Entrevista
+# Charla con Thomas
 
 <p align="center">
   <img src="media/Email.png" />
@@ -47,7 +47,7 @@ _No compartimos secretos =)._
 
 # Comentario final
 
-Vice Society ha llevado a cabo operaciones exitosas en Latinoamérica y particularmente en Argentina, donde distintas organizaciones han pagado rescates por su información y evitado ser expuestos públicamente. Esto contribuye a que dichos casos no puedan ser contabilizados a menos que, en una situación como la actual, uno de los involucrados en el incidente decida mencionarlo. 
+Vice Society ha llevado a cabo operaciones exitosas en Latinoamérica y particularmente en Argentina, donde distintas organizaciones han pagado rescates por su información y evitado la exposición pública. Esto contribuye a que dichos casos no puedan ser contabilizados a menos que, en una situación como la actual, uno de los involucrados en el incidente decida mencionarlo. 
 
 Como es de esperarse, el grupo no habla de los clientes que ya han pagado por su información, y considera continuar sus operaciones en la región.
 
@@ -68,7 +68,7 @@ Como es de esperarse, el grupo no habla de los clientes que ya han pagado por su
 Vice Society is a ransomware group that emerged in mid-2021 and already has victims in more than a dozen countries, including: USA, UK, Saudi Arabia, Italy, France, Germany, Spain, and even Argentina, where they attacked the Senate. Following this last case is that I decided to interview them briefly.
 
 
-# Interview
+# Talking with Tomas
 
 <p align="center">
   <img src="media/Email.png" />

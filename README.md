@@ -45,7 +45,7 @@ _Los ataques contra Waikato y SPAR; y muchas otras empresas que pagaron (aunque 
 _No compartimos secretos =)._
   
 
-# Conclusión
+# Comentario final
 
 Vice Society ha llevado a cabo operaciones exitosas en Latinoamérica y particularmente en Argentina, donde distintas organizaciones han pagado rescates por su información y evitado ser expuestos públicamente. Esto contribuye a que dichos casos no puedan ser contabilizados a menos que, en una situación como la actual, uno de los involucrados en el incidente decida mencionarlo. 
 
@@ -105,7 +105,7 @@ _Waikato\SPAR many other companies that paid (we don't talk about who paid us)._
 _We don't share secrets =)._
 
 
-# Conclusion
+# Final thoughts
 
 Vice Society has carried out successful operations in Latin America and particularly in Argentina, where different organizations have paid ransoms for their information and avoided being publicly exposed. This contributes to the fact that these cases cannot be accounted for unless, in a situation like the current one, one of those involved in the incident decides to come clear about it.
 
